@@ -92,10 +92,7 @@ django-basics/
 
 ---
 
-## 📸 Screenshots
-
-> Homepage UI  
-![Homepage Screenshot](screenshot1.png)  
+## 📸  
 
 > Contact Form with Validation  
 ![Contact Form](screenshot2.png)
