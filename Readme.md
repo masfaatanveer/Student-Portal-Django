@@ -109,7 +109,7 @@ MIT License — _free to use, modify, and distribute_
 ## 💬 Contact
 
 > For custom versions, help, or deployment:  
-**masfaatanveer@gmail.com**
+**masfaatanveerr@gmail.com**
 
 ---
 
